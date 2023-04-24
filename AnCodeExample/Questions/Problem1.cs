@@ -24,14 +24,14 @@
 
         public static char ResolvedOptimize(string input)
         {
-            if (input.Length == 0 || String.IsNullOrEmpty(input) || String.IsNullOrWhiteSpace(input))
+            if (String.IsNullOrEmpty(input) || String.IsNullOrWhiteSpace(input))
                 throw new Exception("Wrong input value");
 
             if(input.Length == 1)   
                 return input[0];
 
             var dicChars = new Dictionary<char, long>();
-            var halfInputLen = (input.Length / 2)+1;
+            var halfInputLen = input.Length%2 ==0 ? input.Length / 2 : (input.Length / 2)+1;
 
             foreach (char c in input)
             {
