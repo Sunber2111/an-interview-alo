@@ -1,0 +1,15 @@
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\bin\Debug\net6.0\AnCodeExample.exe
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\bin\Debug\net6.0\AnCodeExample.deps.json
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\bin\Debug\net6.0\AnCodeExample.runtimeconfig.json
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\bin\Debug\net6.0\AnCodeExample.dll
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\bin\Debug\net6.0\AnCodeExample.pdb
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\obj\Debug\net6.0\AnCodeExample.csproj.AssemblyReference.cache
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\obj\Debug\net6.0\AnCodeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\obj\Debug\net6.0\AnCodeExample.AssemblyInfoInputs.cache
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\obj\Debug\net6.0\AnCodeExample.AssemblyInfo.cs
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\obj\Debug\net6.0\AnCodeExample.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\obj\Debug\net6.0\AnCodeExample.dll
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\obj\Debug\net6.0\refint\AnCodeExample.dll
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\obj\Debug\net6.0\AnCodeExample.pdb
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\obj\Debug\net6.0\AnCodeExample.genruntimeconfig.cache
+C:\Users\ACER\Source\Repos\AnCodeExample\AnCodeExample\obj\Debug\net6.0\ref\AnCodeExample.dll
