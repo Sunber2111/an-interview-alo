@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine(7/2);
+﻿
+using AnCodeExample.Interview;
+
+Console.WriteLine(TrongInterview.Resolved("aaabbbcdcdcdcdcdk"));
