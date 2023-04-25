@@ -1,4 +1,4 @@
 ﻿
 using AnCodeExample.Interview;
 
-Console.WriteLine(TrongInterview.Resolved("aaabbbcdcdcdcdcdk"));
+Console.WriteLine(NamQuestion.Resolved2("aaabbbcdcdcdcdcdk",23));

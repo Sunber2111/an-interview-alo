@@ -36,7 +36,7 @@ namespace AnCodeExample.Interview
 
             if(input.Length <= index)
             {
-                startIndex = input.Length%index;
+                startIndex = index%input.Length;
             }
 
             var output = "";
@@ -63,7 +63,7 @@ namespace AnCodeExample.Interview
             var startIndex = index;
             if (input.Length <= index)
             {
-                startIndex = input.Length % index;
+                startIndex = index % input.Length;
             }
 
             var output = "";
